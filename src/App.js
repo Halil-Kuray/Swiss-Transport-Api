@@ -122,6 +122,14 @@ function App() {
           </table>
         </div>
       </section>
+      <section>
+        <p>
+          Source Code : <a href="https://github.com/Halil-Kuray/Swiss-Transport-Api">https://github.com/Halil-Kuray/Swiss-Transport-Api</a>
+        </p>
+        <p>
+          Powered By : <a href="https://transport.opendata.ch/"> Open Data</a>
+        </p>
+      </section>
     </div>
   );
 }
